@@ -13,4 +13,4 @@
 - 이미지 첨부 하시려면
 - Issue 에 이미지 넣으시고, 가져오세요
 
-![2018-09-05 10 50 46](https://user-images.githubusercontent.com/897510/45488479-7e818a00-b79c-11e8-922e-316dcb8d2f9b.png)
+<img width="1027" alt="kakaotalk_photo_2018-08-14-10-05-49" src="https://user-images.githubusercontent.com/897510/51069580-20df4a80-1675-11e9-9d5d-95f40c0ab7c9.png">
