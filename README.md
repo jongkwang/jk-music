@@ -1,4 +1,4 @@
-# JongKwnag Music
+# JongKwang Music
 
 > Version : 1.1  
 > Date : 2019.03.03
@@ -22,7 +22,7 @@
 <img width="1027" alt="kakaotalk_photo_2018-08-14-10-05-49" src="https://user-images.githubusercontent.com/897510/51069580-20df4a80-1675-11e9-9d5d-95f40c0ab7c9.png">
 
 
-# JongKwnag Music
+# JongKwang Music
 
 > Version : 1.1  
 > Date : 2019.03.03
