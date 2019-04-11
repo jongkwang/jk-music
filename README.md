@@ -20,3 +20,27 @@
 ## 토큰 이코노미
 
 <img width="1027" alt="kakaotalk_photo_2018-08-14-10-05-49" src="https://user-images.githubusercontent.com/897510/51069580-20df4a80-1675-11e9-9d5d-95f40c0ab7c9.png">
+
+
+# JongKwnag Music
+
+> Version : 1.1  
+> Date : 2019.03.03
+
+## Current Problem / Status Quo
+- Titanic music streaming services monopolizing information related to music distribution / retailing creates huge information imbalance
+  - Copyright holders faced with uncertain sales records
+  - Long lost credibility of streaming services
+- Mutual distrust between copyright holders / artists and streaming services
+- Music chart being curated exclusively by the streaming services centralizes authority and monopolizes profit
+  - Different interests related to the music chart lacks transparent and decentralized management
+
+## Solution
+- Coin-based music streaming service
+  - All transactions are coin-based blockchain that is open / available to everyone 
+  - Transparency of such streaming services leads to "Cause Marketing"
+- Implementation of betting system can help construct decentralized music chart
+
+## Token Economy
+
+<img width="1027" alt="kakaotalk_photo_2018-08-14-10-05-49" src="https://user-images.githubusercontent.com/897510/51069580-20df4a80-1675-11e9-9d5d-95f40c0ab7c9.png">
